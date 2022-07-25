@@ -9,5 +9,6 @@ function WaveSorting(arr) {
   }
   return true;
 }
+
 console.log(WaveSorting([0, 4, 22, 4, 14, 4, 2]));
-console.log(WaveSorting([0, 1, 2, 4, 1, 1, 1]));
+console.log(WaveSorting_1([0, 1, 2, 4, 1, 1, 1]));
