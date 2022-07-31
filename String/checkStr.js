@@ -10,7 +10,7 @@ function check(s){
     return res;
  }
 
-let a=check("eeee");
+let a=check("rr");
 if(a){
     console.log('Yes');
 }
